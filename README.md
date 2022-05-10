@@ -1,4 +1,4 @@
-# Optimize-Workforce-Planning-using-Linear-Programming-with-Python
+# Optimize Workforce Planning using Linear-Programming in Python
 
 
 We defined a Linear Programming Problem by finding the
