@@ -8,7 +8,7 @@ To provide a clear and interactive visualization of workforce planning, the proj
 
 ![Potential-Workforce-Planning-banner-image](https://github.com/user-attachments/assets/4a0d88e7-3e42-4641-b118-78ddcb94c6a6)
 
-**Features:**
+## **Features:**
 
 **Linear Programming Optimization:** Models and solves the workforce allocation problem with constraints on working and off days.
 
