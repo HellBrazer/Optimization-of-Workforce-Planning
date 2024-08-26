@@ -1,4 +1,4 @@
-**Optimize Workforce Planning using Linear Programming in Python**
+# **Optimize Workforce Planning using Linear Programming in Python**
 
 This project focuses on optimizing workforce planning in a warehouse environment using Linear Programming techniques in Python. The goal is to efficiently allocate workers to different shifts while adhering to constraints such as the number of available workers, shift demands, and overtime limits.
 
@@ -11,5 +11,7 @@ To provide a clear and interactive visualization of workforce planning, the proj
 **Features:**
 
 **Linear Programming Optimization:** Models and solves the workforce allocation problem with constraints on working and off days.
+
 **Visualization:** Interactive dashboards and plots to compare staff demand versus supply, and identify resource gaps or surpluses.
+
 **Scalable Approach:** The model can be extended or modified to accommodate additional constraints or more complex workforce scheduling scenarios.
